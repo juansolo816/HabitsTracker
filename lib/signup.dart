@@ -69,7 +69,7 @@ class _SignupPageState extends State<SignupPage> {
                   SizedBox(height: 10.0),
                   TextField(
                     decoration: InputDecoration(
-                        labelText: 'NICK NAME ',
+                        labelText: 'USERNAME ',
                         labelStyle: TextStyle(
                             fontFamily: 'Montserrat',
                             fontWeight: FontWeight.bold,

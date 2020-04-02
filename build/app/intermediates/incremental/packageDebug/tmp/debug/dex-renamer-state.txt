@@ -1,0 +1,4 @@
+#Wed Apr 01 02:36:02 CDT 2020
+base.0=/Users/juanbalderas/git-repos/HabitsTrackerApp/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

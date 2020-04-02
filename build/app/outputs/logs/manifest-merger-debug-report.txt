@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e56023eec7927eaf63e0e1a2c304dea9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/86aef4b1d499168db39d1a70b89c837c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/38ee02af19de87c3fe9b7b74d84bb4be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/af3ce0dbbabe73affbf3a018c642c3a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7a02891d6c457fc27573f29fd2789542/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/510ef848efd4f61f32e403f848b36649/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a5b2578aa9de03de87bf9be69ecee134/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c064f39f9ad9bfa7dc909832fba2cc99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/249a23acbb4e1f49b8ce6dfdea8538b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d9e363d18c8095c790fd490d92426218/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3f3a942c158a74b3a35568bbcf8ee811/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f029064a4aabc048f114ccdaa85713e/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/206fd45e4bea744f09188a3104a3c1dd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7d403de9edb8bdce3950bd49d6765a21/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d516c4b32d5a8dc878cf38ef1198e049/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/028b98a8b7042242d7a8477d8169c4b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e8d6814e08d48837c27c7e9a8a314658/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c999b1ccad1eaf64494855b077522aa/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/90a5673d92e59be969a5b626a28494d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ee916f340029039c8d8f48ce4fe22d21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/942c7d813639dbdb00e11dbfba5b50e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1a76922b38bdad1c4afc70bbf5518e3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3645c98fc35898d75b9e277be6d114d3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f029064a4aabc048f114ccdaa85713e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f029064a4aabc048f114ccdaa85713e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c999b1ccad1eaf64494855b077522aa/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c999b1ccad1eaf64494855b077522aa/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f029064a4aabc048f114ccdaa85713e/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.example.flutteruilogin.MainActivity
+ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e56023eec7927eaf63e0e1a2c304dea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e56023eec7927eaf63e0e1a2c304dea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/86aef4b1d499168db39d1a70b89c837c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/86aef4b1d499168db39d1a70b89c837c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/38ee02af19de87c3fe9b7b74d84bb4be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/38ee02af19de87c3fe9b7b74d84bb4be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/af3ce0dbbabe73affbf3a018c642c3a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/af3ce0dbbabe73affbf3a018c642c3a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7a02891d6c457fc27573f29fd2789542/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7a02891d6c457fc27573f29fd2789542/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/510ef848efd4f61f32e403f848b36649/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/510ef848efd4f61f32e403f848b36649/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a5b2578aa9de03de87bf9be69ecee134/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a5b2578aa9de03de87bf9be69ecee134/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c064f39f9ad9bfa7dc909832fba2cc99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c064f39f9ad9bfa7dc909832fba2cc99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/249a23acbb4e1f49b8ce6dfdea8538b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/249a23acbb4e1f49b8ce6dfdea8538b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d9e363d18c8095c790fd490d92426218/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d9e363d18c8095c790fd490d92426218/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3f3a942c158a74b3a35568bbcf8ee811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3f3a942c158a74b3a35568bbcf8ee811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f029064a4aabc048f114ccdaa85713e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f029064a4aabc048f114ccdaa85713e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/206fd45e4bea744f09188a3104a3c1dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/206fd45e4bea744f09188a3104a3c1dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7d403de9edb8bdce3950bd49d6765a21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7d403de9edb8bdce3950bd49d6765a21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d516c4b32d5a8dc878cf38ef1198e049/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d516c4b32d5a8dc878cf38ef1198e049/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/028b98a8b7042242d7a8477d8169c4b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/028b98a8b7042242d7a8477d8169c4b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e8d6814e08d48837c27c7e9a8a314658/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e8d6814e08d48837c27c7e9a8a314658/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c999b1ccad1eaf64494855b077522aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c999b1ccad1eaf64494855b077522aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/90a5673d92e59be969a5b626a28494d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/90a5673d92e59be969a5b626a28494d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ee916f340029039c8d8f48ce4fe22d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ee916f340029039c8d8f48ce4fe22d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/942c7d813639dbdb00e11dbfba5b50e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/942c7d813639dbdb00e11dbfba5b50e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1a76922b38bdad1c4afc70bbf5518e3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1a76922b38bdad1c4afc70bbf5518e3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3645c98fc35898d75b9e277be6d114d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/juanbalderas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3645c98fc35898d75b9e277be6d114d3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/juanbalderas/git-repos/HabitsTrackerApp/android/app/src/main/AndroidManifest.xml
