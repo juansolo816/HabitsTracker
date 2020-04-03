@@ -25,6 +25,10 @@ class _HomePageState extends State<HomePage> {
       'Index 2:',
       style: optionStyle,
     ),
+    Text(
+      'Index 3:',
+      style: optionStyle,
+    ),
   ];
 
   // Function to change index when button tap occurs: _onItemTapped()
@@ -34,6 +38,7 @@ class _HomePageState extends State<HomePage> {
     });
   }
 
+  // bottom nav bar code begins here
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -47,12 +52,12 @@ class _HomePageState extends State<HomePage> {
             title: Text('Home'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.event),
-            title: Text('Event'),
+            icon: Icon(Icons.chat),
+            title: Text('Chat'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.face),
-            title: Text('User'),
+            icon: Icon(Icons.tab),
+            title: Text('KeystoneHabits'),
           ),
         ],
         currentIndex: _selectedIndex,
