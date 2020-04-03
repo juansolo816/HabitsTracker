@@ -17,7 +17,7 @@ class _LoginPageState extends State<LoginPage> {
               child: Stack(
                 children: <Widget>[
                   Container(
-                    padding: EdgeInsets.fromLTRB(35.0, 55.0, 0.0, 0.0),
+                    padding: EdgeInsets.fromLTRB(35.0, 25.0, 0.0, 0.0),
                     child: Text('Anahana',
                         style: TextStyle(
                           fontSize: 90.0,
@@ -26,7 +26,7 @@ class _LoginPageState extends State<LoginPage> {
                         )),
                   ),
                   Container(
-                    padding: EdgeInsets.fromLTRB(190.0, 165.0, 0.0, 0.0),
+                    padding: EdgeInsets.fromLTRB(190.0, 105.0, 0.0, 0.0),
                     child: Text('Keystone \n      Habits\n    Tracker',
                         style: TextStyle(
                             fontSize: 40.0,
@@ -37,7 +37,7 @@ class _LoginPageState extends State<LoginPage> {
               ),
             ),
             Container(
-                padding: EdgeInsets.only(top: 25.0, left: 20.0, right: 20.0),
+                padding: EdgeInsets.only(top: 10.0, left: 20.0, right: 20.0),
                 child: Column(
                   children: <Widget>[
                     TextField(
@@ -102,8 +102,11 @@ class _LoginPageState extends State<LoginPage> {
                         ),
                       ),
                     ),
-                    SizedBox(height: 20.0),
+                    SizedBox(
+                        height:
+                            20.0), //space between buttons (login, login social media)
                     Container(
+                      //facebook login
                       height: 40.0,
                       color: Colors.transparent,
                       child: Container(
@@ -131,10 +134,40 @@ class _LoginPageState extends State<LoginPage> {
                           ],
                         ),
                       ),
+                    ),
+                    SizedBox(height: 10.0),
+                    Container(
+                      //gmail login
+                      height: 40.0,
+                      color: Colors.transparent,
+                      child: Container(
+                        decoration: BoxDecoration(
+                            border: Border.all(
+                                color: Colors.black,
+                                style: BorderStyle.solid,
+                                width: 1.0),
+                            color: Colors.transparent,
+                            borderRadius: BorderRadius.circular(20.0)),
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: <Widget>[
+                            Center(
+                              child: ImageIcon(AssetImage('assets/gmail.png')),
+                            ),
+                            SizedBox(width: 10.0),
+                            Center(
+                              child: Text('Log in with Gmail',
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      fontFamily: 'Montserrat')),
+                            )
+                          ],
+                        ),
+                      ),
                     )
                   ],
                 )),
-            SizedBox(height: 15.0),
+            SizedBox(height: 15.0), // space between login and registration
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
