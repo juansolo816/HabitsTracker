@@ -80,6 +80,24 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "google_fonts",
+      "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/google_fonts-0.3.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/http-0.12.0+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
       "name": "image",
       "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/image-2.1.4",
       "packageUri": "lib/",
@@ -104,6 +122,24 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "path_provider",
+      "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "path_provider_macos",
+      "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "pedantic",
       "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/pedantic-1.8.0+1",
       "packageUri": "lib/",
@@ -114,6 +150,18 @@
       "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/petitparser-2.4.0",
       "packageUri": "lib/",
       "languageVersion": "2.4"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/platform-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.24"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/juanbalderas/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
     },
     {
       "name": "quiver",
@@ -182,13 +230,13 @@
       "languageVersion": "2.3"
     },
     {
-      "name": "flutter_ui_login",
+      "name": "Anahana",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     }
   ],
-  "generated": "2020-04-03T01:09:31.074144Z",
+  "generated": "2020-04-03T21:52:36.357623Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }

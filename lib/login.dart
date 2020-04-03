@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class LoginPage extends StatefulWidget {
   @override
@@ -17,22 +18,11 @@ class _LoginPageState extends State<LoginPage> {
               child: Stack(
                 children: <Widget>[
                   Container(
-                    padding: EdgeInsets.fromLTRB(35.0, 25.0, 0.0, 0.0),
-                    child: Text('Anahana',
-                        style: TextStyle(
-                          fontSize: 90.0,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.cyan[300],
-                        )),
+                    padding: EdgeInsets.fromLTRB(100.0, 40.0, 20.0, 0.0),
+                    width: 300,
+                    height: 250,
+                    child: Image.asset('assets/anahana.png'),
                   ),
-                  Container(
-                    padding: EdgeInsets.fromLTRB(190.0, 105.0, 0.0, 0.0),
-                    child: Text('Keystone \n      Habits\n    Tracker',
-                        style: TextStyle(
-                            fontSize: 40.0,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.blueGrey[600])),
-                  )
                 ],
               ),
             ),
@@ -43,10 +33,8 @@ class _LoginPageState extends State<LoginPage> {
                     TextField(
                       decoration: InputDecoration(
                           labelText: 'EMAIL',
-                          labelStyle: TextStyle(
-                              fontFamily: 'Montserrat',
-                              fontWeight: FontWeight.bold,
-                              color: Colors.grey),
+                          labelStyle: GoogleFonts.abel(
+                              fontWeight: FontWeight.bold, color: Colors.grey),
                           focusedBorder: UnderlineInputBorder(
                               borderSide: BorderSide(color: Colors.cyan[100]))),
                     ),
@@ -54,10 +42,8 @@ class _LoginPageState extends State<LoginPage> {
                     TextFormField(
                       decoration: InputDecoration(
                           labelText: 'PASSWORD',
-                          labelStyle: TextStyle(
-                              fontFamily: 'Montserrat',
-                              fontWeight: FontWeight.bold,
-                              color: Colors.grey),
+                          labelStyle: GoogleFonts.abel(
+                              fontWeight: FontWeight.bold, color: Colors.grey),
                           focusedBorder: UnderlineInputBorder(
                               borderSide:
                                   BorderSide(color: Colors.blueAccent))),
@@ -70,10 +56,10 @@ class _LoginPageState extends State<LoginPage> {
                       child: InkWell(
                         child: Text(
                           'Forgot Password',
-                          style: TextStyle(
+                          style: GoogleFonts.abel(
                               color: Colors.blue,
                               fontWeight: FontWeight.bold,
-                              fontFamily: 'Montserrat',
+                              fontSize: 16,
                               decoration: TextDecoration.underline),
                         ),
                       ),
@@ -83,7 +69,7 @@ class _LoginPageState extends State<LoginPage> {
                       height: 40.0,
                       child: Material(
                         borderRadius: BorderRadius.circular(20.0),
-                        shadowColor: Colors.cyanAccent[200],
+                        shadowColor: Colors.black,
                         color: Colors.cyan[400],
                         elevation: 7.0,
                         child: GestureDetector(
@@ -93,10 +79,11 @@ class _LoginPageState extends State<LoginPage> {
                           child: Center(
                             child: Text(
                               'LOGIN',
-                              style: TextStyle(
-                                  color: Colors.white,
-                                  fontWeight: FontWeight.bold,
-                                  fontFamily: 'Montserrat'),
+                              style: GoogleFonts.abel(
+                                color: Colors.white,
+                                fontWeight: FontWeight.bold,
+                                fontSize: 22,
+                              ),
                             ),
                           ),
                         ),
@@ -127,9 +114,10 @@ class _LoginPageState extends State<LoginPage> {
                             SizedBox(width: 10.0),
                             Center(
                               child: Text('Log in with Facebook',
-                                  style: TextStyle(
-                                      fontWeight: FontWeight.bold,
-                                      fontFamily: 'Montserrat')),
+                                  style: GoogleFonts.abel(
+                                    fontWeight: FontWeight.bold,
+                                    fontSize: 18,
+                                  )),
                             )
                           ],
                         ),
@@ -157,9 +145,10 @@ class _LoginPageState extends State<LoginPage> {
                             SizedBox(width: 10.0),
                             Center(
                               child: Text('Log in with Gmail',
-                                  style: TextStyle(
-                                      fontWeight: FontWeight.bold,
-                                      fontFamily: 'Montserrat')),
+                                  style: GoogleFonts.abel(
+                                    fontWeight: FontWeight.bold,
+                                    fontSize: 18,
+                                  )),
                             )
                           ],
                         ),
@@ -173,7 +162,7 @@ class _LoginPageState extends State<LoginPage> {
               children: <Widget>[
                 Text(
                   'New here ?',
-                  style: TextStyle(fontFamily: 'Montserrat'),
+                  style: GoogleFonts.abel(fontSize: 18),
                 ),
                 SizedBox(width: 5.0),
                 InkWell(
@@ -182,9 +171,9 @@ class _LoginPageState extends State<LoginPage> {
                   },
                   child: Text(
                     'Register',
-                    style: TextStyle(
+                    style: GoogleFonts.abel(
                         color: Colors.blue,
-                        fontFamily: 'Montserrat',
+                        fontSize: 18,
                         fontWeight: FontWeight.bold,
                         decoration: TextDecoration.underline),
                   ),
