@@ -150,3 +150,4 @@ doc/api/
 ##BRIAN BUCK CUSTOM SECTION###################################
 **/*.bak[a-z]
 **/*.bak
+android/app/google-services.json
